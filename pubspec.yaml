@@ -44,11 +44,12 @@ dependencies:
   path_provider: ^2.1.5
   file_picker: ^10.2.0
   url_launcher: ^6.3.2
-  dio: ^5.8.0+1
+  dio: ^5.9.0
   cloud_functions: ^5.6.2
   firebase_messaging: ^15.2.10
   http: ^1.4.0
   cloudinary_public: ^0.23.1
+  syncfusion_flutter_pdfviewer: ^30.2.4
 
 dev_dependencies:
   flutter_test:
