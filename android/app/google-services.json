@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952326659636",
+    "project_id": "eleave-e9efb",
+    "storage_bucket": "eleave-e9efb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952326659636:android:effb674ac692477304f461",
+        "android_client_info": {
+          "package_name": "com.example.eleave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLkBEE3CAByXG-YauAeMqGTnI1yYKiLPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
