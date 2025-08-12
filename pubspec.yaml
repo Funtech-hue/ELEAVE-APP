@@ -43,12 +43,10 @@ dependencies:
   cloud_firestore: ^5.6.11
   path_provider: ^2.1.5
   file_picker: ^10.2.0
-  firebase_storage: ^12.4.9
   url_launcher: ^6.3.2
   dio: ^5.8.0+1
   cloud_functions: ^5.6.2
   firebase_messaging: ^15.2.10
-  flutter_local_notifications: ^19.4.0
   http: ^1.4.0
   cloudinary_public: ^0.23.1
 
